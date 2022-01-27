@@ -50,7 +50,13 @@ li{
 /*---------------------------*/
 /*----------Home---------- */
 /*---------------------------*/
+#home h1{
+    font-size: 100px;
+}
 
+#home p{
+    font-size: 50px;
+}
 
 #Apropos, #contact, #projets{
     padding: 60px;
