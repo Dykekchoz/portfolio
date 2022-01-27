@@ -18,11 +18,11 @@ li{
     position: fixed;
     right: 15px;
     bottom: 15px;
-    font-size: 20px;
+    font-size: 22px;
     background-color: #007BFF;
     color: white;
     height: 50px;
-    /* width: 50px; */
+    width: 50px;
     border-radius: 50%;
 }
 /*---------------------------*/
