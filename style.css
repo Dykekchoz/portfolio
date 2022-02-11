@@ -58,8 +58,8 @@ li{
     font-size: 50px;
 }
 
-#Apropos, #contact, #projets{
-    padding: 60px;
+#Apropos, #contact, #projets, #carriere{
+    margin-top: 60px;
 }
 
 #home{
@@ -172,6 +172,7 @@ li{
 /*---------------------------*/
 
 #contact{
+    padding: 60px 0;
     background-color: #0078FF ;
 }
 
@@ -201,6 +202,13 @@ li{
 }
 
 .lien{
+    margin: 0;
+    padding: 0;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+#contact i{
+    color: #0078FF;
 }
