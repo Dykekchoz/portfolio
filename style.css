@@ -123,7 +123,7 @@ li{
 
 .contenu{
     padding-left: 15px;
-    border-left: 2px solid green;
+    border-left: 2px solid #0078FF;
 }
 
 
@@ -206,7 +206,6 @@ li{
     padding: 0;
     display: flex;
     justify-content: space-around;
-    flex-wrap: wrap;
 }
 
 #contact i{
