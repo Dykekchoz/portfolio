@@ -83,6 +83,11 @@ li{
 
 }
 
+#Apropos img{
+    width: 150px;
+    height: auto;
+}
+
 #box{
     box-shadow: 1px 1px 8px #555;
 }
